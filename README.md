@@ -6,7 +6,7 @@ mistakes, and learning progress.
 
 ## 📈 Stats
 - **Started:** 2-3 months ago
-- **Main Platform:** picoCTF, HackTheBox
+- **Main Platform:** picoCTF, DropCTF
 - **Interests:** Pwn, Web Security, and Secure Coding\
   
 ### 💡 "Teach me if you can!"
