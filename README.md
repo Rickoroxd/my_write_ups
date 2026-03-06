@@ -5,7 +5,6 @@ This repository serves as a digital garden where I document my solutions,
 mistakes, and learning progress.
 
 ## 📈 Stats
-- **Started:** 2-3 months ago
 - **Main Platform:** picoCTF, DropCTF
 - **Interests:** Pwn, Web Security, and Secure Coding\
   
