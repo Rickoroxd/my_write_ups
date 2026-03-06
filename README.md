@@ -6,7 +6,7 @@ mistakes, and learning progress.
 
 ## 📈 Stats
 - **Main Platform:** picoCTF, DropCTF , 0xfun
-- **Interests:** Pwn, Web Security, and Secure Coding\
+- **Interests:** Pwn, Web Security, and Secure Coding
   
 ### 💡 "Teach me if you can!"
 Since I am very new to this field, my solutions might not be the most efficient or "pro" ways to solve a problem. 
