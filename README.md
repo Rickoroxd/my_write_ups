@@ -5,7 +5,7 @@ This repository serves as a digital garden where I document my solutions,
 mistakes, and learning progress.
 
 ## 📈 Stats
-- **Main Platform:** picoCTF, DropCTF
+- **Main Platform:** picoCTF, DropCTF , 0xfun
 - **Interests:** Pwn, Web Security, and Secure Coding\
   
 ### 💡 "Teach me if you can!"
